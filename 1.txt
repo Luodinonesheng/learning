@@ -4,4 +4,8 @@ this test brach;
 <<<<<<< HEAD
 this is 2 branch modify!
 this is 3 branck modify!
+<<<<<<< HEAD
 zhangdi modify this file;
+=======
+michal is modifing the file;
+>>>>>>> b4ca3382f098053a4011be041516c9899a10008b
