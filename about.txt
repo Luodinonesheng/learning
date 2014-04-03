@@ -2,3 +2,4 @@ this is the first file for testing git;
 i have modified this file!
 i modify this file again;
 i like git!
+you konw , i add a file "add.txt" in the folder git;
