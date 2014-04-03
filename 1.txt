@@ -4,3 +4,4 @@ this test brach;
 <<<<<<< HEAD
 this is 2 branch modify!
 this is 3 branck modify!
+branch 2 modify again!
