@@ -1,1 +1,1 @@
-A add file are exists in the git folder;
+Ad add file are exists in the git folder;
