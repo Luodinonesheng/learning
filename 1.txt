@@ -7,3 +7,4 @@ this is 3 branck modify!
 branch 2 modify again!
 test if the info still here when i didn't add and commit to workspace;
 this is the lasted file;
+zhangdi,master,modify this file; 
