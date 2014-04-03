@@ -2,7 +2,4 @@ this is a txt file for testing git delete;
 this modify is changed for testing branch!
 this test brach;
 <<<<<<< HEAD
-2 branch modify master;
-=======
-2 branch--modify2;!
->>>>>>> 2
+this is 2 branch modify!
