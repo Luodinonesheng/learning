@@ -4,7 +4,22 @@ this test brach;
 <<<<<<< HEAD
 this is 2 branch modify!
 this is 3 branck modify!
+<<<<<<< HEAD
 branch 2 modify again!
 test if the info still here when i didn't add and commit to workspace;
 this is the lasted file;
 zhangdi,master,modify this file; 
+=======
+<<<<<<< HEAD
+zhangdi modify this file;
+=======
+michal is modifing the file;
+>>>>>>> b4ca3382f098053a4011be041516c9899a10008b
+
+
+test1
+
+test2
+
+test3
+>>>>>>> 2
